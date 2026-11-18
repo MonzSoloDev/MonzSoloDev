@@ -1,6 +1,6 @@
 # Hey, I'm MONZ 👋
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:203a43,100:00d4ff&height=200&section=header&text=MONZ&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:203a43,100:00d4ff&height=200&section=header&text=MONZ.DEVELOPER&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ### Aspiring AI Engineer | Linux Enthusiast | Rust Explorer
 
@@ -16,10 +16,9 @@ I enjoy exploring how things work under the hood, experimenting with new technol
 
 - 🤖 Working towards becoming an **AI Engineer**
 - 🐧 Daily driving **Arch Linux**
-- 🦀 Exploring **Rust** and systems programming
+-  Exploring **Rust**, **Python** and **C**
 - 🧠 Interested in **LLMs, AI Agents, and AI infrastructure**
 - ⚙️ Exploring developer tools, automation, and open-source software
-- 🎨 Learning UI/UX design with Figma
 
 ## 🛠️ Tech Stack & Tools
 
@@ -38,10 +37,6 @@ I enjoy exploring how things work under the hood, experimenting with new technol
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 ## 🧠 Areas of Interest
 
 | Field | Interests |
@@ -50,16 +45,15 @@ I enjoy exploring how things work under the hood, experimenting with new technol
 | Systems Programming | Rust, Performance, Memory Safety |
 | Linux | Arch Linux, Wayland, Window Managers |
 | Software Engineering | Open Source, Developer Tools |
-| Design | UI/UX, Figma, Prototyping |
 
 ## 📚 Currently Learning
 
-- [ ] AI Engineering fundamentals
-- [ ] Large Language Models (LLMs)
-- [ ] AI Agent development
-- [ ] Rust programming
-- [ ] AI API integration and gateways
-- [ ] System architecture and software engineering
+- [] AI Engineering fundamentals
+- [] Large Language Models (LLMs)
+- [] AI Agent development
+- [x] Rust programming
+- [x] AI API integration and gateways
+- [x] System architecture and software engineering
 
 ## 📊 GitHub Statistics
 
