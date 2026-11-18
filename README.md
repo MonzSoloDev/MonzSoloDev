@@ -90,5 +90,5 @@ I enjoy exploring how things work under the hood, experimenting with new technol
 </p>
 
 <p align="center">
-&#x20;<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:203a43,100:00d4ff&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:090979,50:203a43,100:00d4ff\&height=100\&section=footer)" width="100%" />
+&#x20;/<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:203a43,100:00d4ff&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:090979,50:203a43,100:00d4ff\&height=100\&section=footer)" width="100%" />
 </p>
